@@ -1,0 +1,8 @@
+{
+  "name": "lib-dynasty-auto-repair",
+  "version": "1.0.0",
+  "description": "Dynasty Auto Repair website",
+  "scripts": {
+    "build": "echo 'No build needed'"
+  }
+}
